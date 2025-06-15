@@ -13,7 +13,7 @@ BlinkBuddy is a lightweight, eye-care application designed to help you follow th
 
 ## How to Download & Use the App 👀
 
-Simply download the .exe file from here and double tap to start the App.
+**Simply download the .exe file from [here](https://github.com/shubhamx599/blinkbuddy/releases/download/v1.0.0/blinkbuddy.exe) and double tap to start the App.**
 
 ## How It Works 🧠
 
